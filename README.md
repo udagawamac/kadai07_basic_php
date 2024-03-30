@@ -3,7 +3,7 @@ PHP1_アンケートアプリ
 ## ②課題内容（どんな作品か）
 - アンケートで好きな色を選んでもらい、集計結果を表にする
 ## ③DEMO
-https://udagawamac.github.io/kadai07_basic_php
+https://udamac.sakura.ne.jp/index.php
 ## ④工夫した点・こだわった点
 - 最低限のラインをクリアすること。
 ## ⑤難しかった点・次回トライしたいこと(又は機能)
